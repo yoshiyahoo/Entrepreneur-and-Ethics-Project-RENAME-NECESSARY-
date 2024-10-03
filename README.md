@@ -1,5 +1,5 @@
-# Hercules or H.E.R.C.
-Heath and Exercise Recommendation Coach
+# Hercules or H.E.R.R.C.
+Heath, Exercise, and Recovery Recommendation Coach
 # Company Name
 Jupiitr Innovations
 
