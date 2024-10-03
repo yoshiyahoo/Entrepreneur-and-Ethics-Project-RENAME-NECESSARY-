@@ -1,5 +1,7 @@
-# Hercules
+# Hercules or HERC
 
+# Company Name
+Jupiitr Innovations
 
 #### Garbage for now. FIXME! Write this better!
 This AI will generate a workout and a diet/recovery plan given personalized information about you. Personalized data includes biometric data like height, weight, heart rate, blood pressure, sleep, steps, and blood sugar levels. Diet data including macros, calories, proteins, fats. Outstanding medical conditions like arthritis, osteoporosis, strained muscles or messed up joints or broken bones. 
