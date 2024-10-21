@@ -24,4 +24,4 @@ At **Jupiitr Innovations**, our mission is to empower users to improve their hea
 
 ---
 
-For more information and detailed documentation, please visit our [Wiki](link-to-wiki).
+For more information and detailed documentation, please visit our Wiki.
