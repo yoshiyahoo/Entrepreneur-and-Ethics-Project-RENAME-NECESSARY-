@@ -1,13 +1,27 @@
-# Hercules or H.E.R.R.C.
-Heath, Exercise, and Recovery Recommendation Coach
-# Company Name
-Jupiitr Innovations
+# Hercules (H.E.R.R.C.) - Health, Exercise, and Recovery Recommendation Coach
 
-#### Garbage for now. FIXME! Write this better!
-This AI will generate a workout and a diet/recovery plan given personalized information about you. Personalized data includes biometric data like height, weight, heart rate, blood pressure, sleep, steps, and blood sugar levels. Diet data including macros, calories, proteins, fats. Outstanding medical conditions like arthritis, osteoporosis, strained muscles or messed up joints or broken bones. 
+## Company Name
+**Jupiitr Innovations**
 
-The model can watch a video of your performing an exercise and give you tips on the proper form. The model can help with regular exercise or physical therapy.
+## Overview
+Hercules, or H.E.R.R.C. (Health, Exercise, and Recovery Recommendation Coach), is an AI-driven app designed to provide personalized workout, diet, and recovery plans based on individual biometric data, medical conditions, and fitness goals. With Hercules, users can achieve more efficient and safe workouts while receiving tailored advice for overall health improvement.
 
-The model will be able to suggest relevant exercise equipment for the exercises it generates. Or it can generate exercises with the equipment you have available. It can link you to stores that sell the right gear or gyms near you that have those. 
+## Features
+- **Personalized Recommendations**: Using biometric data like height, weight, heart rate, sleep patterns, and more, H.E.R.R.C. tailors exercise and recovery plans to suit your specific needs.
+- **Medical Condition Integration**: Adjusts workouts and recovery plans based on conditions such as arthritis, osteoporosis, or muscle injuries to ensure safe and effective training.
+- **Exercise Form Analysis**: The AI can analyze videos of your workout form and provide corrective tips to prevent injury and maximize effectiveness.
+- **Dietary Guidance**: Offers customized nutrition plans, tracking macros and caloric intake, alongside recommendations for those with specific dietary restrictions or goals.
+- **Equipment Suggestions**: Suggests relevant exercise equipment and links to stores or nearby gyms based on your preferences and the equipment available to you.
 
-This AI will be deployed on a app on your phone and data will be sent to a remote server. 
+## Privacy and Security
+We prioritize user privacy and security, ensuring that all personal data is encrypted and stored securely on our servers. Users will have full control over their data and can opt-out or modify their information at any time. Our system undergoes regular security audits to protect sensitive biometric and medical data.
+
+## Deployment
+H.E.R.R.C. will be available as a mobile app, where data is securely transmitted to remote servers for processing. The AI recommendations and feedback are delivered in real-time to improve the user’s health journey effectively and efficiently.
+
+## Our Mission
+At **Jupiitr Innovations**, our mission is to empower users to improve their health and fitness with personalized, data-driven insights, while prioritizing privacy, security, and inclusivity.
+
+---
+
+For more information and detailed documentation, please visit our [Wiki](link-to-wiki).
