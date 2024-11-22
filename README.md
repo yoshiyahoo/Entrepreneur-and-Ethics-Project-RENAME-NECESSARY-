@@ -27,4 +27,4 @@ At **Jupiitr Innovations**, our mission is to empower users to improve their hea
 For more information and detailed documentation, please visit our [Wiki](https://github.com/yoshiyahoo/H.E.R.R.C./wiki).
 
 ## Video Presentation
-![](https://youtu.be/Yd-Id3n5vfA)
+[Here](https://youtu.be/Yd-Id3n5vfA)
